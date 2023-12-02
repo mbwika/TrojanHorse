@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "562161949343",
+    "project_id": "sparta-49a06",
+    "storage_bucket": "sparta-49a06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562161949343:android:7431c540db4dd2252760aa",
+        "android_client_info": {
+          "package_name": "com.codensecurity.horse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE-R-D19IAcfLbP92EKIEDj1VC6c-yL6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562161949343:android:d65ee4665edadc612760aa",
+        "android_client_info": {
+          "package_name": "com.codensecurity.trojanhorse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE-R-D19IAcfLbP92EKIEDj1VC6c-yL6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
